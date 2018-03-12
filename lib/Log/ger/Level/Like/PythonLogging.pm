@@ -41,4 +41,4 @@ This module changes the L<Log::ger> levels to:
 
 =head1 SEE ALSO
 
-[1] https://docs.python.org/3/library/logging.html
+[1] L<https://docs.python.org/3/library/logging.html>
